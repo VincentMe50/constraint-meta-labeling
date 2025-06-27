@@ -1,0 +1,30 @@
+{
+    "asset_0": {
+        "colsample_bytree": 1.0,
+        "learning_rate": 0.01,
+        "max_depth": 3,
+        "n_estimators": 100,
+        "subsample": 1.0
+    },
+    "asset_1": {
+        "colsample_bytree": 1.0,
+        "learning_rate": 0.01,
+        "max_depth": 4,
+        "n_estimators": 100,
+        "subsample": 0.5
+    },
+    "asset_2": {
+        "colsample_bytree": 0.8,
+        "learning_rate": 0.01,
+        "max_depth": 3,
+        "n_estimators": 100,
+        "subsample": 0.5
+    },
+    "asset_3": {
+        "colsample_bytree": 0.6,
+        "learning_rate": 0.01,
+        "max_depth": 3,
+        "n_estimators": 100,
+        "subsample": 0.5
+    }
+}
